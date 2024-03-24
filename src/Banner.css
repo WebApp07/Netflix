@@ -1,8 +1,10 @@
 .banner {
   position: relative;
   color: white;
-  height: 448px;
+  height: 500px;
   object-fit: contain;
+  background-size: cover;
+  background-position: center center;
 }
 
 .banner__contents {
